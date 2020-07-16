@@ -4,6 +4,6 @@
 angular.module('LunchCheck',[])
 
 .controller('LunchCheckController',function LunchCheckController($scope){
-    $scope.name='Aisu'
+    $scope.name='Aiswarya'
 })
 })();
